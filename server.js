@@ -265,3 +265,6 @@ bot.login(TOKEN); //log in to discord
 function formatConsoleMessage(message) {
     return message.cleanContent.replace(new RegExp('\n', 'g'), '\n\t');
 }
+
+
+//Warning,  Doesn't work anymore
